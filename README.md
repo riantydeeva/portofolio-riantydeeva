@@ -5,6 +5,11 @@ beberapa project, serta sertifikat yang saya miliki. Website ini dibuat mengguna
 dan JavaScript tanpa menggunakan framework. Desainnya dibuat sederhana dengan kombinasi warna
 biru muda dan putih, ditambah animasi ringan agar tampilan website terasa lebih menarik saat digunakan.
 
+<p align="center">
+  <img src="images/project-1.png" width="600">
+  <img src="images/anotherproject-1.jpeg" width="150">
+</p>
+
 ### Live Demo:
 https://portofolio-riantydeeva.vercel.app/
 
